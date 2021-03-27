@@ -20,3 +20,14 @@ https://wngamebox.cn/
 SPT-AKI端，可以实现最新版本的离线服务器
 
 https://www.sp-tarkov.com/#home
+
+https://mods.sp-tarkov.com/files/file/16-spt-aki/
+
+复制粘贴EFT文件夹后，解压APT AKI到游戏根目录即可。
+
+
+
+Requirements:
+
+- [https://dotnet.microsoft.com/d…0.4-windows-x64-installer](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-5.0.4-windows-x64-installer)
+- Escape From Tarkov
