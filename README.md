@@ -31,3 +31,9 @@ Requirements:
 
 - [https://dotnet.microsoft.com/d…0.4-windows-x64-installer](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-5.0.4-windows-x64-installer)
 - Escape From Tarkov
+
+
+
+最新版本会闪退，所以需要使用AKI PATCHER降级：Downgrader_12.9.2.11410_to_12.9.10532
+
+运行Patcher来降级。
