@@ -52,3 +52,8 @@ Requirements:
  "parentId": "5fe49444ae6628187a2e78b8",
 ```
 
+
+
+## Mod
+
+[AR Shoppe Unlimited](https://hub.sp-tarkov.com/files/file/250-ar-shoppe-unlimited/)
