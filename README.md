@@ -37,3 +37,18 @@ Requirements:
 最新版本会闪退，所以需要使用AKI PATCHER降级：Downgrader_12.9.2.11410_to_12.9.10532
 
 运行Patcher来降级。
+
+
+
+## 教程
+
+[A Comprehensive Step by Step Guide to Installing SPT-AKI Properly](https://hub.sp-tarkov.com/doc/entry/49-a-comprehensive-step-by-step-guide-to-installing-spt-aki-properly/)
+
+卢布：可以改成999999999
+
+```
+ "_id": "401b4fe74d2b72fa981e7a2c",
+ "_tpl": "5449016a4bdc2d6f028b456f",
+ "parentId": "5fe49444ae6628187a2e78b8",
+```
+
